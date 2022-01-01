@@ -5,3 +5,4 @@ Obs:
 
 Deve alterar os dados de login para consumo da API:
   - payload = {"cliente": "Cliente", "password": "Password"}
+  - Algumas linhas foram alteradas para preservar informações privadas e particulares
