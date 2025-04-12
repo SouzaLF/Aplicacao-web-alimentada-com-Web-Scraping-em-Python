@@ -17,4 +17,4 @@ Aplicação Streamlit para monitoramento de operações de equipamentos agrícol
 
 ## Configuração
 
-Edite `CONFIG_API` no arquivo `app.py` para conectar à sua fonte de dados.
+Edite `CONFIG_API` no arquivo `App Web.py` para conectar à sua fonte de dados.
